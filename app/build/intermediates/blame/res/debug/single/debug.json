@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rr.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\rr.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_main_attuali.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-hdpi\\main_attuali.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_normal.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hi.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\hi.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_main_altri.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-ldpi\\main_altri.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_press.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\press.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rain.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dew.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\dew.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_style.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_normal.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_windm.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\windm.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_main_grafici.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-hdpi\\main_grafici.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wunder.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\wunder.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_temper.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\temper.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_main_webcam.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-hdpi\\main_webcam.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dew.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\dew.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wunder.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\wunder.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi_main_estremi.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-mdpi\\main_estremi.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_temper.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\temper.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_main_estremi.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-xhdpi\\main_estremi.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_pressed.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_windm.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\windm.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_main_situazione.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-ldpi\\main_situazione.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_windm.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\windm.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_main_estremi.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-hdpi\\main_estremi.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_main_situazione.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-xhdpi\\main_situazione.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_windm.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\windm.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi_main_attuali.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-mdpi\\main_attuali.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_temper.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\temper.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_main_attuali.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-xhdpi\\main_attuali.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_temper.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\temper.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rain.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_main_attuali.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-ldpi\\main_attuali.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_main_altri.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-hdpi\\main_altri.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_press.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\press.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_main_estremi.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-ldpi\\main_estremi.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_main_home.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-xhdpi\\main_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_main_altri.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-xhdpi\\main_altri.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hi.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\hi.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_main_webcam.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-xhdpi\\main_webcam.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_press.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\press.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dew.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\dew.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_normal.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_pressed.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_normal.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_press.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\press.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rr.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\rr.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi_main_home.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-mdpi\\main_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_style.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_style.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hi.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\hi.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_humid.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\humid.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rr.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\rr.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_style.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_main_grafici.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-ldpi\\main_grafici.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_pressed.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rain.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_pressed.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi_main_situazione.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-mdpi\\main_situazione.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_main_grafici.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-xhdpi\\main_grafici.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dew.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\dew.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_windd.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\windd.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi_main_altri.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-mdpi\\main_altri.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rain.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_humid.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\humid.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wunder.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\wunder.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rr.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\rr.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_humid.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\humid.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_windd.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\windd.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_main_home.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-hdpi\\main_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi_main_webcam.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-mdpi\\main_webcam.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_main_situazione.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-hdpi\\main_situazione.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_windd.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-hdpi\\windd.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_main_webcam.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-ldpi\\main_webcam.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi_main_grafici.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-mdpi\\main_grafici.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_windd.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\windd.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hi.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-xhdpi\\hi.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldpi_main_home.xml.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\layout-ldpi\\main_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_humid.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-mdpi\\humid.png"
+    }
+]

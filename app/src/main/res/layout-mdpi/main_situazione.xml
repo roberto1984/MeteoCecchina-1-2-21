@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:background="@color/grey" android:layout_width="fill_parent" android:layout_height="fill_parent" android:stretchColumns="*" android:shrinkColumns="*"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Città" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Alt" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Agg" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Temp" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="U.R." />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Press" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="VentoM" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Dir" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="VentoR" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Dew" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Pioggia" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Tmax" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Tmin" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="1.0dip" android:text="Vmax" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/cecchina_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/cecchina_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/cecchina_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/lanuvio_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/lanuvio_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lanuvio_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/rdp_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/rdp_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rdp_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/vivaro_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/vivaro_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/vivaro_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/rpriora_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/rpriora_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rpriora_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/velletri_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/velletri_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/velletri_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/mcompatri_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/mcompatri_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/mcompatri_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/lago_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/lago_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/lago_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/ariccia_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/ariccia_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ariccia_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/smmole_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/smmole_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/smmole_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/albano_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/albano_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/albano_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/tuscolo_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/tuscolo_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/tuscolo_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/pomezia_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/pomezia_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pomezia_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/selvotta_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/selvotta_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/selvotta_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_nome" android:layout_marginBottom="1.0dip" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/ardea_altitudine" />
+        <TextView android:textSize="10.0dip" android:gravity="center" android:id="@id/ardea_aggiornamento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_pressione" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_dir_vento" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_raffica" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_ptorugiada" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_pioggia" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_temp_max" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_temp_min" android:layout_weight="1.0" />
+        <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ardea_raffica_max" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow>
+        <ImageView android:id="@id/wunder" android:layout_span="15" />
+    </TableRow>
+</TableLayout>

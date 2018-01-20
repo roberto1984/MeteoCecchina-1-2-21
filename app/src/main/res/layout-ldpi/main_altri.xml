@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="*" android:shrinkColumns="*">
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="18.0dip" android:textStyle="bold" android:gravity="center" android:layout_span="3" android:text="Dati generali" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/data" android:layout_span="3" />
+        </TableRow>
+        <View android:background="#ffff0000" android:layout_height="2.0dip" />
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Pioggia perturbazione" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/pioggiatemporale" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Pioggia mese" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/pioggiamese" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Pioggia anno" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/pioggiaanno" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Temp. Interna" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/tempinterna" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Umidita interna" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/huminterna" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Densita dell'aria" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/densita" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Altezza base nubi" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/altezzanubi" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="16.0dip" android:textStyle="bold" android:gravity="center" android:layout_span="3" android:text="Sole e Luna" />
+        </TableRow>
+        <View android:background="#ffff0000" android:layout_height="2.0dip" />
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Alba" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/alba" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Tramonto" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/tramonto" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Lunghezza giorno" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/lunghezzagiorno" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Fase lunare" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/luna" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Alba luna" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/albaluna" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Tramonto luna" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/tramontoluna" android:layout_span="2" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="16.0dip" android:textStyle="bold" android:gravity="center" android:layout_span="3" android:text="Trend" />
+        </TableRow>
+        <View android:background="#ffff0000" android:layout_height="2.0dip" />
+        <TableRow android:layout_weight="1.0">
+            <TextView />
+            <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="left" android:text="1 ora" />
+            <TextView android:textSize="10.0dip" android:textStyle="bold" android:gravity="left" android:text="1 giorno" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:text="Temperatura" />
+            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/vartemp1h" />
+            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/vartemp1d" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:text="Vento" />
+            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/varwind1h" />
+            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/varwind1d" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:text="Umidita" />
+            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/varhum1h" />
+            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/varhum1d" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:text="Pressione" />
+            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/varpress1h" />
+            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/varpress1d" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="16.0dip" android:textStyle="bold" android:gravity="center" android:layout_span="3" android:text="Info stazione meteo" />
+        </TableRow>
+        <View android:background="#ffff0000" android:layout_height="2.0dip" />
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Latitudine" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="41.69 N" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Longitudine" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="12.64 E" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Altitudine" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="216 metri s.l.m." />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Modello" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="MNW-Palomar" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Installazione" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="Tetto-Semi urbana" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Altezza da terra" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="10 metri" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Software" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="Wview linux 5.19" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Hardware" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="IBM x20 + arduino" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Webcam" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="Canon powershot a60" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Intervallo scatto" />
+            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="5 minuti" />
+        </TableRow>
+        <TableRow android:layout_weight="1.0">
+            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Sito web" />
+            <TextView android:textSize="12.0dip" android:textStyle="bold" android:gravity="left" android:layout_span="2" android:text="www.meteocecchina.it" />
+        </TableRow>
+    </TableLayout>
+</ScrollView>

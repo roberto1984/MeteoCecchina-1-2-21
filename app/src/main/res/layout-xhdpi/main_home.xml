@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/background" android:padding="30.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="*" android:shrinkColumns="*">
+        <TableRow>
+            <Button android:textSize="20.0dip" android:textColor="@color/black" android:id="@id/Attuali" android:background="@drawable/button_style" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="9.0dip" android:text="Dati Stazione Live" />
+        </TableRow>
+        <TableRow>
+            <Button android:textSize="20.0dip" android:textColor="@color/black" android:id="@id/Altri" android:background="@drawable/button_style" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="9.0dip" android:text="Dati generali" />
+        </TableRow>
+        <TableRow>
+            <Button android:textSize="20.0dip" android:textColor="@color/black" android:id="@id/Estremi" android:background="@drawable/button_style" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="9.0dip" android:text="Massimi e minimi" />
+        </TableRow>
+        <TableRow>
+            <Button android:textSize="20.0dip" android:textColor="@color/black" android:id="@id/Grafici" android:background="@drawable/button_style" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="9.0dip" android:text="Grafici" />
+        </TableRow>
+        <TableRow>
+            <Button android:textSize="20.0dip" android:textColor="@color/black" android:id="@id/Webcam" android:background="@drawable/button_normal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="9.0dip" android:text="Webcam" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:background="@drawable/background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:stretchColumns="*" android:shrinkColumns="*"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:id="@id/tableRow5" android:layout_weight="1.0">
+        <TextView android:textSize="18.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/intestazione" android:layout_span="3" android:text="Estremi Registrati" />
+    </TableRow>
+    <TableRow android:id="@id/tableRow4" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textStyle="bold" android:gravity="center" android:id="@id/data" android:layout_span="3" android:text="--" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:id="@id/tableRow3_0" android:layout_weight="1.0">
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Temperatura" android:layout_weight="1.0" />
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Umidita" android:layout_weight="1.0" />
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Pressione" android:layout_weight="1.0" />
+    </TableRow>
+    <TableRow android:id="@id/tableRow1_0" android:layout_weight="1.0">
+        <ImageView android:id="@id/tempImage" />
+        <ImageView android:id="@id/humImage" />
+        <ImageView android:id="@id/pressImage" />
+    </TableRow>
+    <TableRow android:id="@id/tableRow2_0" android:layout_weight="1.0">
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/temperatura" android:text="--" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/umidita" android:text="--" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pressione" android:text="--" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:id="@id/tableRow3_0" android:layout_weight="1.0">
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Vento" android:layout_weight="1.0" />
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Dir. Vento" android:layout_weight="1.0" />
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Pioggia" android:layout_weight="1.0" />
+    </TableRow>
+    <TableRow android:id="@id/tableRow1_1" android:layout_weight="1.0">
+        <ImageView android:id="@id/windmImage" />
+        <ImageView android:id="@id/windDirImage" />
+        <ImageView android:id="@id/rainImage" />
+    </TableRow>
+    <TableRow android:id="@id/tableRow2_1" android:layout_weight="1.0">
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ventom" android:text="--" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/ventoDir" android:text="--" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/pioggia" android:text="--" android:layout_weight="1.0" />
+    </TableRow>
+    <View android:background="#ffff0000" android:layout_height="2.0dip" />
+    <TableRow android:id="@id/tableRow4_0" android:layout_weight="1.0">
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Dewpoint" android:layout_weight="1.0" />
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Heat index" android:layout_weight="1.0" />
+        <TextView android:textSize="16.0dip" android:gravity="center" android:text="Rain rate" android:layout_weight="1.0" />
+    </TableRow>
+    <TableRow android:id="@id/tableRow1_2" android:layout_weight="1.0">
+        <ImageView android:id="@id/dewImage" />
+        <ImageView android:id="@id/hIndexImage" />
+        <ImageView android:id="@id/rRateImage" />
+    </TableRow>
+    <TableRow android:id="@id/tableRow2_2" android:layout_weight="1.0">
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/dewpoint" android:text="--" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/heatIndex" android:text="--" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0dip" android:textStyle="bold" android:gravity="center" android:id="@id/rainRate" android:text="--" android:layout_weight="1.0" />
+    </TableRow>
+    <TableRow android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textStyle="italic" android:gravity="center" android:id="@id/inf" android:layout_marginTop="4.0dip" android:layout_span="3" android:text="Tasto menu per selezionare i dati da visualizzare" />
+    </TableRow>
+</TableLayout>
