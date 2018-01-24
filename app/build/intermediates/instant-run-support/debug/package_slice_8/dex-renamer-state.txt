@@ -1,4 +1,4 @@
-#Sat Jan 20 14:52:07 CET 2018
+#Wed Jan 24 21:15:49 CET 2018
 base.0=C\:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 path.0=classes.dex
 renamed.0=classes.dex

@@ -11,10 +11,6 @@
         </TableRow>
         <View android:background="#ffff0000" android:layout_height="2.0dip" />
         <TableRow android:layout_weight="1.0">
-            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Pioggia perturbazione" />
-            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/pioggiatemporale" android:layout_span="2" />
-        </TableRow>
-        <TableRow android:layout_weight="1.0">
             <TextView android:textSize="14.0dip" android:gravity="left" android:text="Pioggia mese" />
             <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/pioggiamese" android:layout_span="2" />
         </TableRow>
@@ -51,20 +47,8 @@
             <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/tramonto" android:layout_span="2" />
         </TableRow>
         <TableRow android:layout_weight="1.0">
-            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Lunghezza giorno" />
-            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/lunghezzagiorno" android:layout_span="2" />
-        </TableRow>
-        <TableRow android:layout_weight="1.0">
             <TextView android:textSize="14.0dip" android:gravity="left" android:text="Fase lunare" />
             <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/luna" android:layout_span="2" />
-        </TableRow>
-        <TableRow android:layout_weight="1.0">
-            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Alba luna" />
-            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/albaluna" android:layout_span="2" />
-        </TableRow>
-        <TableRow android:layout_weight="1.0">
-            <TextView android:textSize="14.0dip" android:gravity="left" android:text="Tramonto luna" />
-            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:id="@id/tramontoluna" android:layout_span="2" />
         </TableRow>
         <TableRow android:layout_weight="1.0">
             <TextView android:textSize="16.0dip" android:textStyle="bold" android:gravity="center" android:layout_span="3" android:text="Trend" />
@@ -79,11 +63,6 @@
             <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:text="Temperatura" />
             <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/vartemp1h" />
             <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/vartemp1d" />
-        </TableRow>
-        <TableRow android:layout_weight="1.0">
-            <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:text="Vento" />
-            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/varwind1h" />
-            <TextView android:textSize="14.0dip" android:gravity="left" android:id="@id/varwind1d" />
         </TableRow>
         <TableRow android:layout_weight="1.0">
             <TextView android:textSize="14.0dip" android:textStyle="bold" android:gravity="left" android:text="Umidita" />

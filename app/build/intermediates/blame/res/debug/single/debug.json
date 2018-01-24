@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rr.png.flat",
-        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\rr.png"
-    },
-    {
         "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
         "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rr.png.flat",
+        "source": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\src\\main\\res\\drawable-ldpi\\rr.png"
     },
     {
         "merged": "C:\\Users\\darko1984\\Downloads\\MeteoCecchina-1-2-21\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_main_attuali.xml.flat",

@@ -8,11 +8,11 @@ INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\And
 INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:2:95-121
+		ADDED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:2:93-119
 		INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:2:36-63
+		ADDED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:2:36-61
 		INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml
 	xmlns:android
@@ -22,7 +22,7 @@ INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\And
 		INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:2:64-94
+		ADDED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:2:62-92
 uses-sdk
 ADDED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:4:5-43
 INJECTED from C:\Users\darko1984\Downloads\MeteoCecchina-1-2-21\app\src\main\AndroidManifest.xml:4:5-43

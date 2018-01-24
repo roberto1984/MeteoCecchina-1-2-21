@@ -161,22 +161,10 @@ public class Altri extends Activity {
                 str[i]=line;
                 data.setText(str[i]);	
                 }
-            	if(i==144){
-            	str[i]=line;
-                pioggiatemporale.setText(str[i]+" mm");	
-            	}
             	if(i==21){
             	str[i]=line;
                 luna.setText(str[i]);	
             	}
-            	if(i==146){
-            	str[i]=line;
-                albaluna.setText(str[i]);	
-            	}
-            	if(i==147){
-                str[i]=line;
-                tramontoluna.setText(str[i]);	
-                }
             	if(i==2){
                     str[i]=line;
                 alba.setText(str[i]);	
@@ -189,13 +177,9 @@ public class Altri extends Activity {
                     str[i]=line;
                 tempinterna.setText(str[i]+" C");
                 }
-            	if(i==5){
+            	if(i==8){
                     str[i]=line;
                 huminterna.setText(str[i]+" %");	
-                }
-            	if(i==1){
-                    str[i]=line;
-                lunghezzagiorno.setText(str[i]);	
                 }
             	if(i==18){
                     str[i]=line;
@@ -223,17 +207,6 @@ public class Altri extends Activity {
                 vartemp1h.setTextColor(getResources().getColor(R.color.red));   	
                     }
                 vartemp1h.setText(vartemp1hint+" C");
-                }
-            	if(i==133){
-                    str[i]=line;
-                    double varwind1hint = Double.parseDouble(str[i]);
-                    if(varwind1hint < 0){
-                varwind1h.setTextColor(getResources().getColor(R.color.blu));   
-                    }
-                    else{
-                varwind1h.setTextColor(getResources().getColor(R.color.red));   	
-                    }
-                varwind1h.setText(varwind1hint+" km/h");	
                 }
             	if(i==135){
                     str[i]=line;
@@ -267,17 +240,6 @@ public class Altri extends Activity {
                 vartemp1d.setTextColor(getResources().getColor(R.color.red));   	
                     }
                 vartemp1d.setText(vartemp1dint+" C");
-                }
-            	if(i==139){
-                    str[i]=line;
-                    double varwind1dint = Double.parseDouble(str[i]);
-                    if(varwind1dint < 0){
-                varwind1d.setTextColor(getResources().getColor(R.color.blu));   
-                    }
-                    else{
-                varwind1d.setTextColor(getResources().getColor(R.color.red));   	
-                    }
-                varwind1d.setText(varwind1dint+" km/h");	
                 }
             	if(i==141){
                     str[i]=line;
