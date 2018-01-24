@@ -31,12 +31,12 @@ public class Grafici extends Activity{
     private ProgressDialog pd;
 
 	
-    String temp = "http://meteocecchina.it/wview/tempdaycomp.png";
-    String wspeed = "http://meteocecchina.it/wview/wspeeddaycomp.png";
-    String wdir = "http://www.meteocecchina.it/wview/wdirday.png";
-    String rain = "http://meteocecchina.it/wview/rainday.png";
-    String barom = "http://meteocecchina.it/wview/baromday.png";
-    String humid = "http://meteocecchina.it/wview/humidday.png";
+    String temp = "http://www.meteocecchina.it/wmrdb/images/5min_temp.png";
+    String wspeed = "http://www.meteocecchina.it/wmrdb/images/5min_windgust.png";
+    String wdir = "http://www.meteocecchina.it/wmrdb/images/5min_winddir.png";
+    String rain = "http://www.meteocecchina.it/wmrdb/images/5min_totalrain.png";
+    String barom = "http://www.meteocecchina.it/wmrdb/images/5min_barom.png";
+    String humid = "http://www.meteocecchina.it/wmrdb/images/5min_hum.png";
     
 	
 	public void onCreate(Bundle savedInstanceState) {

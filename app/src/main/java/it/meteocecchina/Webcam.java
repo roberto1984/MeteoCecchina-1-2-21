@@ -33,6 +33,10 @@ public class Webcam extends Activity{
     private ProgressDialog pd;
 
     String cecchina = "http://meteocecchina.it/webcam/webcam.php";
+	String ariccia = "http://www.meteoariccia.it/webcam.jpg";
+	String pomezia = "http://www.pomeziameteo.altervista.org/webcam_canon/cam.jpg";
+	String rpapa = "http://li1830.myfoscam.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=guest&pwd=Guest123";
+	String velletri = "http://www.meteovelletri.it/webcam_crocefissi/image.jpg";
 
 
 	
@@ -53,31 +57,76 @@ public class Webcam extends Activity{
                 pd = ProgressDialog.show(Webcam.this,"Download immagine","Attendi...",true,false);
                 pd.setCancelable(true);
                 AsTask task3 = new AsTask();
-                task3.execute();
+                task3.execute("cecchina");
 		        
 
 
 	}
 	
 	public boolean onCreateOptionsMenu(Menu menu) {
-    	menu.add("Aggiorna").setOnMenuItemClickListener(new OnMenuItemClickListener() {
-    		public boolean onMenuItemClick(MenuItem item) {
-                pd = ProgressDialog.show(Webcam.this,"Download immagine","Attendi...",true,false);
-                AsTask task3 = new AsTask();
-                task3.execute();
-    			return true;
-    		}
-    	});;
+		menu.add("Cecchina").setOnMenuItemClickListener(new OnMenuItemClickListener() {
+			public boolean onMenuItemClick(MenuItem item) {
+				pd = ProgressDialog.show(Webcam.this,"Download immagine","Attendi...",true,false);
+				Webcam.AsTask task2 = new Webcam.AsTask();
+				task2.execute("cecchina");
+				return true;
+			}
+		});;
+		menu.add("Ariccia").setOnMenuItemClickListener(new OnMenuItemClickListener() {
+			public boolean onMenuItemClick(MenuItem item) {
+				pd = ProgressDialog.show(Webcam.this,"Download immagine","Attendi...",true,false);
+				Webcam.AsTask task2 = new Webcam.AsTask();
+				task2.execute("ariccia");
+				return true;
+			}
+		});;
+		menu.add("Pomezia").setOnMenuItemClickListener(new OnMenuItemClickListener() {
+			public boolean onMenuItemClick(MenuItem item) {
+				pd = ProgressDialog.show(Webcam.this,"Download immagine","Attendi...",true,false);
+				Webcam.AsTask task2 = new Webcam.AsTask();
+				task2.execute("pomezia");
+				return true;
+			}
+		});;
+		menu.add("R.Di Papa").setOnMenuItemClickListener(new OnMenuItemClickListener() {
+			public boolean onMenuItemClick(MenuItem item) {
+				pd = ProgressDialog.show(Webcam.this,"Download immagine","Attendi...",true,false);
+				Webcam.AsTask task2 = new Webcam.AsTask();
+				task2.execute("rpapa");
+				return true;
+			}
+		});;
+		menu.add("Velletri").setOnMenuItemClickListener(new OnMenuItemClickListener() {
+			public boolean onMenuItemClick(MenuItem item) {
+				pd = ProgressDialog.show(Webcam.this,"Download immagine","Attendi...",true,false);
+				Webcam.AsTask task2 = new Webcam.AsTask();
+				task2.execute("velletri");
+				return true;
+			}
+		});;
     	return true;
 	}
 	Bitmap bmImgWebcam;
 
-	private class AsTask extends AsyncTask<Void,Void,Void> {
+	private class AsTask extends AsyncTask<String,Void,Void> {
 		@Override
-		protected Void doInBackground(Void... params) {
-			// TODO Auto-generated method stub
-	        downloadFile(cecchina);
-	
+		protected Void doInBackground(String... params) {
+			String v = params[0];
+			if(v == "cecchina"){
+				downloadFile(cecchina);
+			}
+			if(v == "ariccia"){
+				downloadFile(ariccia);
+			}
+			if(v == "pomezia"){
+				downloadFile(pomezia);
+			}
+			if(v == "rpapa"){
+				downloadFile(rpapa);
+			}
+			if(v == "velletri"){
+				downloadFile(velletri);
+			}
 			return null;
 		}
 		protected void onProgressUpdate(Void... values) {
